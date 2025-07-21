@@ -16,10 +16,10 @@ Salut ! Moi c’est **Kalil**, un passionné de développement logiciel avec une
 
 ## Stack principale
 
-### Backend ###  - .NET Core (Web API) - PHP (Laravel, Symfony) - Node.js (occasionnel)
-### Frontend ### - Angular  - React - Bootstrap / TailwindCSS / SCSS
-### Bases de données ### - SQL Server, MySQL, MongoDB
-### DevOps & Autres ### - Docker, Git, Redis
+### Backend  - .NET Core (Web API) - PHP (Laravel, Symfony) - Node.js (occasionnel)
+### Frontend - Angular  - React - Bootstrap / TailwindCSS / SCSS
+### Bases de données - SQL Server, MySQL, MongoDB
+### DevOps & Autres - Docker, Git, Redis
 
 ---
 ## 📊 Statistiques GitHub
