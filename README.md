@@ -38,8 +38,8 @@ Je conçois, développe et optimise des solutions **scalables**, centrées sur l
 
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kalil-keita&show_icons=true&theme=dracula)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil-keita&layout=compact&theme=dracula)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kalil-keita&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil-keita&layout=compact&theme=tokyonight)
 
 ---
 
