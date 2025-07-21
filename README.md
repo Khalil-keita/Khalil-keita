@@ -18,24 +18,15 @@ Je conçois, développe et optimise des solutions **scalables**, centrées sur l
 
 ## 🧰 Stack principale
 
-### 💻 Backend
-- **.NET Core** (Web API)
-- **PHP** (Laravel, Symfony)
-- **Node.js** (occasionnel)
+### 💻 Backend - **.NET Core** (Web API) - **PHP** (Laravel, Symfony) - **Node.js** (occasionnel)
 
-### 🖥 Frontend
-- **Angular** (RxJS, NgRx, Material, PrimeNG)
-- **React** (Hooks, Zustand, Styled Components)
-- **Bootstrap** / **TailwindCSS** / **SCSS**
+### 🖥 Frontend - **Angular** (RxJS, NgRx, Material, PrimeNG) - **React** (Hooks, Zustand, Styled Components) - **Bootstrap** / **TailwindCSS** / **SCSS**
 
-### 🗄️ Bases de données
-- **SQL Server**, **MySQL**, **MongoDB**
+### 🗄️ Bases de données - **SQL Server**, **MySQL**, **MongoDB**
 
-### ⚙️ DevOps & Autres
-- **Docker**, **Git**, **Redis**, **CI/CD GitHub Actions**
+### ⚙️ DevOps & Autres - **Docker**, **Git**, **Redis**, **CI/CD GitHub Actions**
 
 ---
-
 ## 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Khalil-keita&show_icons=true&theme=tokyonight&cache_seconds=1800)
