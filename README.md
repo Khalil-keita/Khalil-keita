@@ -8,9 +8,7 @@
 
 ## 🚀 À propos de moi
 
-Salut ! Moi c’est **Kalil**, un passionné de développement logiciel avec une forte appétence pour la **conception d’architectures back-end robustes** et des **interfaces web modernes et réactives**.
-
-Je conçois, développe et optimise des solutions **scalables**, centrées sur l'utilisateur, en m'appuyant sur des stacks open source et des pratiques de clean code.
+Salut ! Moi c’est **Kalil**, un passionné de développement logiciel avec une forte appétence pour la **conception d’architectures back-end robustes** et des **interfaces web modernes et réactives**
 
 🔧 Mes super-pouvoirs : compréhension métier, rigueur technique, et adaptabilité aux projets complexes.
 
