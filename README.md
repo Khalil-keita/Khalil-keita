@@ -1,25 +1,25 @@
-# 👨‍💻 Ibrahima Kalil Keita
+# Ibrahima Kalil Keita
 
 **Développeur Web Fullstack** • `.NET` | `PHP` | `Angular` | `React`  
-🎓 Licence en Génie Informatique (Bac+4)  
-🌍 Basé à Conakry, Guinée
+ Licence en Génie Informatique (Bac+4)  
+ Basé à Conakry, Guinée
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Salut ! Moi c’est **Kalil**, un passionné de développement logiciel avec une forte appétence pour la **conception d’architectures back-end robustes** et des **interfaces web modernes et réactives**
 
-🔧 Mes super-pouvoirs : compréhension métier, rigueur technique, et adaptabilité aux projets complexes.
+ Mes super-pouvoirs : compréhension métier, rigueur technique, et adaptabilité aux projets complexes.
 
 ---
 
-## 🧰 Stack principale
+## Stack principale
 
-### 💻 Backend - .NET Core (Web API) - PHP (Laravel, Symfony) - Node.js (occasionnel)
-### 🖥 Frontend - Angular  - React - Bootstrap / TailwindCSS / SCSS
-### 🗄️ Bases de données - SQL Server, MySQL, MongoDB
-### ⚙️ DevOps & Autres - Docker, Git, Redis
+### Backend ###  - .NET Core (Web API) - PHP (Laravel, Symfony) - Node.js (occasionnel)
+### Frontend ### - Angular  - React - Bootstrap / TailwindCSS / SCSS
+### Bases de données ### - SQL Server, MySQL, MongoDB
+### DevOps & Autres ### - Docker, Git, Redis
 
 ---
 ## 📊 Statistiques GitHub
